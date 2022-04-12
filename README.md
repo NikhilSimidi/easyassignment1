@@ -1,2 +1,2 @@
-# easyassignment1
+# firstone
 Created with CodeSandbox
